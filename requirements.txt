@@ -1,0 +1,14 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
+tqdm
+Pillow
+optuna
+
+# Optional: only needed for the Kaggle fallback download (source="kaggle").
+# The default Zenodo download uses the standard library (urllib/zipfile).
+# kagglehub

@@ -1,0 +1,78 @@
+{
+  "accuracy": 0.9874074074074074,
+  "report": {
+    "AnnualCrop": {
+      "precision": 0.9668874172185431,
+      "recall": 0.9733333333333334,
+      "f1-score": 0.9700996677740864,
+      "support": 450.0
+    },
+    "Forest": {
+      "precision": 0.995575221238938,
+      "recall": 1.0,
+      "f1-score": 0.9977827050997783,
+      "support": 450.0
+    },
+    "HerbaceousVegetation": {
+      "precision": 0.9889380530973452,
+      "recall": 0.9933333333333333,
+      "f1-score": 0.991130820399113,
+      "support": 450.0
+    },
+    "Highway": {
+      "precision": 0.9841269841269841,
+      "recall": 0.992,
+      "f1-score": 0.9880478087649402,
+      "support": 375.0
+    },
+    "Industrial": {
+      "precision": 0.9893048128342246,
+      "recall": 0.9866666666666667,
+      "f1-score": 0.9879839786381842,
+      "support": 375.0
+    },
+    "Pasture": {
+      "precision": 0.9831649831649831,
+      "recall": 0.9733333333333334,
+      "f1-score": 0.9782244556113903,
+      "support": 300.0
+    },
+    "PermanentCrop": {
+      "precision": 0.9758713136729222,
+      "recall": 0.9706666666666667,
+      "f1-score": 0.9732620320855615,
+      "support": 375.0
+    },
+    "Residential": {
+      "precision": 0.9911504424778761,
+      "recall": 0.9955555555555555,
+      "f1-score": 0.9933481152993349,
+      "support": 450.0
+    },
+    "River": {
+      "precision": 0.9973045822102425,
+      "recall": 0.9866666666666667,
+      "f1-score": 0.9919571045576407,
+      "support": 375.0
+    },
+    "SeaLake": {
+      "precision": 1.0,
+      "recall": 0.9955555555555555,
+      "f1-score": 0.9977728285077951,
+      "support": 450.0
+    },
+    "accuracy": 0.9874074074074074,
+    "macro avg": {
+      "precision": 0.987232381004206,
+      "recall": 0.9867111111111111,
+      "f1-score": 0.9869609516737825,
+      "support": 4050.0
+    },
+    "weighted avg": {
+      "precision": 0.9874260222421856,
+      "recall": 0.9874074074074074,
+      "f1-score": 0.9874066160214415,
+      "support": 4050.0
+    }
+  }
+}

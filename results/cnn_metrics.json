@@ -1,0 +1,78 @@
+{
+  "accuracy": 0.9632098765432099,
+  "report": {
+    "AnnualCrop": {
+      "precision": 0.9077568134171907,
+      "recall": 0.9622222222222222,
+      "f1-score": 0.9341963322545846,
+      "support": 450.0
+    },
+    "Forest": {
+      "precision": 0.989010989010989,
+      "recall": 1.0,
+      "f1-score": 0.994475138121547,
+      "support": 450.0
+    },
+    "HerbaceousVegetation": {
+      "precision": 0.9595505617977528,
+      "recall": 0.9488888888888889,
+      "f1-score": 0.9541899441340782,
+      "support": 450.0
+    },
+    "Highway": {
+      "precision": 0.9807162534435262,
+      "recall": 0.9493333333333334,
+      "f1-score": 0.964769647696477,
+      "support": 375.0
+    },
+    "Industrial": {
+      "precision": 0.9585492227979274,
+      "recall": 0.9866666666666667,
+      "f1-score": 0.9724047306176085,
+      "support": 375.0
+    },
+    "Pasture": {
+      "precision": 0.9539473684210527,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9602649006622517,
+      "support": 300.0
+    },
+    "PermanentCrop": {
+      "precision": 0.9624277456647399,
+      "recall": 0.888,
+      "f1-score": 0.9237170596393898,
+      "support": 375.0
+    },
+    "Residential": {
+      "precision": 0.9889380530973452,
+      "recall": 0.9933333333333333,
+      "f1-score": 0.991130820399113,
+      "support": 450.0
+    },
+    "River": {
+      "precision": 0.938337801608579,
+      "recall": 0.9333333333333333,
+      "f1-score": 0.9358288770053476,
+      "support": 375.0
+    },
+    "SeaLake": {
+      "precision": 0.9910913140311804,
+      "recall": 0.9888888888888889,
+      "f1-score": 0.9899888765294772,
+      "support": 450.0
+    },
+    "accuracy": 0.9632098765432099,
+    "macro avg": {
+      "precision": 0.9630326123290283,
+      "recall": 0.9617333333333333,
+      "f1-score": 0.9620966327059873,
+      "support": 4050.0
+    },
+    "weighted avg": {
+      "precision": 0.9635931662849042,
+      "recall": 0.9632098765432099,
+      "f1-score": 0.9631212564088133,
+      "support": 4050.0
+    }
+  }
+}
